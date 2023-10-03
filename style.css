@@ -1,0 +1,18 @@
+p {
+    color: rebeccapurple;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+ul {
+    background-color: aqua;
+}
+li {
+    font-size: 22px;
+    font-weight: bold;
+    color: chocolate;
+}
+
+img {
+    border-radius: 30px;
+}
